@@ -527,3 +527,12 @@ java.lang.UnsatisfiedLinkError: no winpty in java.library.path: D:\STS\workspace
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-01-10 00:40:10.894
+!MESSAGE Classpath changed for project: TestProject
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-01-10 00:40:10.902
+!MESSAGE Boot project ADDED: TestProject
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-01-10 00:40:12.393
+!MESSAGE Classpath changed for project: TestProject
