@@ -245,7 +245,6 @@ INDEX VERSION 1.134+D:\spring-tool-suit-2025\.metadata\.plugins\org.eclipse.jdt.
 1058557225.index
 1912384454.index
 1668172409.index
-790530490.index
 3154279604.index
 2927988978.index
 1134562862.index
