@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\spring-tool-suit-2025\spring-boot-tutorials-a158cc6be26f59af8d1149b5aa4fc1c730b32e68\SpringBootRestAPIProject"/>
+			<item value="D:\spring-tool-suit-2025\SpringBootRestAPIProject"/>
+			<item value="D:\spring-tool-suit-2025\spring-boot-tutorials-a158cc6be26f59af8d1149b5aa4fc1c730b32e68"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
