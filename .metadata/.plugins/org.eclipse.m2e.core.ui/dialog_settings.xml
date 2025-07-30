@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\visha\Downloads\app\app"/>
+			<item value="C:\Users\visha\Downloads\demo (3)\demo"/>
 			<item value="C:\Users\visha\Downloads\app (1)"/>
 			<item value="C:\Users\visha\Downloads\app"/>
 			<item value="D:\spring-tool-suit-2025\spring-boot-tutorials-a158cc6be26f59af8d1149b5aa4fc1c730b32e68\SpringBootRestAPIProject"/>
